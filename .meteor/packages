@@ -20,8 +20,12 @@ autopublish             # Publish all data to the clients (for prototyping)
 insecure                # Allow all DB writes from clients (for prototyping)
 coffeescript
 
-orionjs:core
 iron:router
+
+semantic:ui
+flemay:less-autoprefixer
+
+orionjs:core
 
 dvz:orion-semantic-ui
 
